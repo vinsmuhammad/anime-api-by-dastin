@@ -24,7 +24,7 @@
                     <h2>${i.message}</h2>
                     <h4>Api simple mudah di pakai, dan tentunya suppot di berbagai project</h4>
                     <h4>
-                        Sering pantau domain sumber sering berubah bisa update di
+                        Domian website api bisa berubah kapan saja, pantai terus websitenya!<h4>
                         <span class="value">"Website ini di kembangkan dengan vercel"</span>
                     </h4>
                     <h4>
