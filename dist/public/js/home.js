@@ -21,7 +21,7 @@
         if (e.ok) {
             a.innerHTML = `
                 <div class="container">
-                    <h2>${i.message}</h2>
+                    <h2>ANIME API</h2>
                     <h4>Api simple mudah di pakai, dan tentunya suppot di berbagai project</h4>
                     <h4>
                         Domian website api bisa berubah kapan saja, pantai terus websitenya!<h4>
