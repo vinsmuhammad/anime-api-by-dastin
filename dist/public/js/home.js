@@ -22,10 +22,10 @@
             a.innerHTML = `
                 <div class="container">
                     <h2>${i.message}</h2>
-                    <h4>Di kembangkan dengan vercel</h4>
+                    <h4>Api simple mudah di pakai, dan tentunya suppot di berbagai project</h4>
                     <h4>
                         Sering pantau domain sumber sering berubah bisa update di
-                        <span class="value">"src/configs/animeConfig.ts"</span>
+                        <span class="value">"Website ini di kembangkan dengan vercel"</span>
                     </h4>
                     <h4>
                         API gratis 100%
